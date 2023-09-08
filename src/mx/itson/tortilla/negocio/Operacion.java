@@ -14,6 +14,7 @@ public class Operacion {
 */
     
 public  String[] separar(String oracion){
+//Tortilla de queso
   String[] resultado = oracion.split(",");
 return resultado;
 }
